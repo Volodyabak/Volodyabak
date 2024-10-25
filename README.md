@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an experienced Senior Frontend Engineer with over 6 years of experience. I have deep knowledge and extensive experience in developing web applications using React, Typescript, and other modern technologies. My expertise spans projects of various complexities, from small internal tools to large-scale e-commerce platforms.<br><br>Skills:Proficient in React.js, Next.js, Redux, TypeScript, all kinds of UI development including BootStrap/Material-U, Rest-full API, GraphQl, Charts, 3D visualization, Third-party APIs (like Stripe, Twillio, Google Maps, etc)<br>Deep understanding of HTML5 and CSS3.
+I am an experienced Senior Frontend Engineer with over 6 years of experience. I have deep knowledge and extensive experience in developing web applications using React, Typescript, and other modern technologies. My expertise spans projects of various complexities, from small internal tools to large-scale e-commerce platforms.<br><br>Skills:<br>Proficient in React.js, Next.js, Redux, TypeScript, all kinds of UI development including BootStrap/Material-U, Rest-full API, GraphQl, Charts, 3D visualization, Third-party APIs (like Stripe, Twillio, Google Maps, etc)<br>Deep understanding of HTML5 and CSS3.
 
 
 ## 🌐 Socials:
